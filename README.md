@@ -1,1 +1,1 @@
-# ELK-stack-with-Docker-Compose
+# elastic-stack-docker
